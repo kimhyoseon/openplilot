@@ -1,0 +1,6 @@
+[네오키님 수정사항 반영]
+git pull neokii hkg_080
+
+[오픈파일럿 차종 강제인식]
+/selfdrive/car/car_helpers.py 파일에서 candidate = "KIA K7 2016-2019"
+https://cafe.naver.com/openpilotdiy/777
