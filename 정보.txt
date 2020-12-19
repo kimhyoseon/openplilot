@@ -4,3 +4,6 @@ git pull neokii hkg_080
 [오픈파일럿 차종 강제인식]
 /selfdrive/car/car_helpers.py 파일에서 candidate = "KIA K7 2016-2019"
 https://cafe.naver.com/openpilotdiy/777
+
+[오픈파일럿 감시]
+/selfdrive/monitoring/driver_monitor.py 파일에서 _AWARENESS_TIME = 변경
