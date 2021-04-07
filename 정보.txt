@@ -10,3 +10,17 @@ https://cafe.naver.com/openpilotdiy/777
 
 [오픈파일럿 감시]
 /selfdrive/monitoring/driver_monitor.py 파일에서 _AWARENESS_TIME = 변경
+
+
+----------------------------------------
+
+[클론]
+git clone -b 브랜치명 https://github.com/neokii/openpilot.git
+
+[오픈파일럿 차종 강제인식]
+/selfdrive/car/hyundai/values.py 파일에서 CAR_FORCE_RECOGNITION = CAR.K7
+
+[오픈파일럿 감시]
+/selfdrive/monitoring/driver_monitor.py 파일에서 _AWARENESS_TIME = 변경
+
+
